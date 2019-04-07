@@ -1,0 +1,5 @@
+﻿  ADCinfo.cpp
+  Source.cpp
+c:\users\mile6\source\repos\hemmingcode\hemmingcode\source.cpp(55): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  HemmingCode.vcxproj -> C:\Users\mile6\source\repos\HemmingCode\Debug\HemmingCode.exe
